@@ -1,0 +1,22 @@
+# Large model files
+*.h5
+*.ckpt
+*.pth
+*.pt
+*.onnx
+
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+*_files/
+*.html
+
+# Large data files
+*-ubyte
+*.gz
